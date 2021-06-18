@@ -1,0 +1,19 @@
+{
+    "name": "nurazman/oop-praktikum-9",
+    "description": "Praktikum 9 Pemrograman Web Berbasis Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nurazman\\OopPraktikum9\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "muhammadnurazman",
+            "email": "muhammadnurazman13@gmail.com"
+        }
+    ]
+}
